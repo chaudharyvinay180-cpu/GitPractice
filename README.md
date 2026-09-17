@@ -1,4 +1,4 @@
 # GitPractice
 Git Practice session
 <br>
-Author is Vinay
+Author is Vinay Chaudhary
